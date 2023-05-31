@@ -1,2 +1,2 @@
 # SQL-MYSQL-DATABASE-
-this is a repository of codes used i creating databases in mysql
+This is a repository of codes used in creating databases in mysql
